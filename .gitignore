@@ -1,13 +1,11 @@
-# Visual Studio cache/options directory
-.vs/
-
-# Rider cache/options directory
-.idea/
-
-# Rider user config file
-C-Sharp.sln.DotSettings.user
-
-# Build results
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
 bin/
 obj/
-TestResults/
+.vs/
